@@ -68,7 +68,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetank23)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/@kumar_chet23950)
