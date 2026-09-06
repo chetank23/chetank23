@@ -63,6 +63,11 @@ I particularly enjoy taking complex ideas and turning them into **simple, useful
 
 # ⚡ What I Work With
 
+<table width="100%">
+<tr>
+
+<td width="62%" valign="top">
+
 ### 🤖 Artificial Intelligence
 
 `Generative AI` · `Agentic AI` · `Machine Learning` · `RAG` · `NLP` · `Computer Vision`
@@ -78,6 +83,43 @@ I particularly enjoy taking complex ideas and turning them into **simple, useful
 ### ☁️ Tools & Infrastructure
 
 `MySQL` · `PostgreSQL` · `MongoDB` · `FAISS` · `Docker` · `Git` · `GitHub` · `AWS` · `GCP` · `Vercel`
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<table width="100%" style="border: 1px solid #30363d; border-radius: 12px;">
+<tr>
+<td align="center">
+
+<br>
+
+<img
+src="https://media.newyorker.com/photos/67411352a7d224b818eb08a5/master/w_2560%2Cc_limit/r45251web_rd.gif"
+width="95%"
+alt="Creative Animation"
+/>
+
+<br><br>
+
+<b>BUILD • CREATE • EXPERIMENT</b>
+
+<br>
+
+<sub>
+Always exploring new ideas.
+</sub>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
