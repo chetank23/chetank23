@@ -24,11 +24,11 @@ and turning ideas into real-world products. 🚀
 <br>
 
 <a href="https://github.com/chetank23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/chetank23/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </td>
@@ -38,7 +38,7 @@ and turning ideas into real-world products. 🚀
 <img
 src="https://media.tenor.com/JmtDyPWNiKAAAAAj/9578-walking.gif"
 width="220px"
-alt="Walking Pixel Robot Animation"
+alt="Walking Pixel Robot"
 />
 
 </td>
@@ -59,6 +59,8 @@ My interests include **Generative AI, Agentic AI, RAG, NLP, Computer Vision, Dat
 
 I particularly enjoy taking complex ideas and turning them into **simple, useful and deployable products**.
 
+> **Build useful things. Learn continuously. Ship things that actually work. 🚀**
+
 ---
 
 # ⚡ What I Work With
@@ -66,7 +68,7 @@ I particularly enjoy taking complex ideas and turning them into **simple, useful
 <table width="100%">
 <tr>
 
-<td width="62%" valign="top">
+<td width="72%" valign="top">
 
 ### 🤖 Artificial Intelligence
 
@@ -86,29 +88,29 @@ I particularly enjoy taking complex ideas and turning them into **simple, useful
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-<table width="100%" style="border: 1px solid #30363d; border-radius: 12px;">
+<table>
 <tr>
 <td align="center">
 
 <br>
 
 <img
-src="https://media.newyorker.com/photos/67411352a7d224b818eb08a5/master/w_2560%2Cc_limit/r45251web_rd.gif](https://images.squarespace-cdn.com/content/v1/5ba175f0a9e0286ef432a3bf/1545322538564-4I67FZTH2E3OT56JMWQF/battlebot_idle-3.gif?format=1000w"
-width="95%"
-alt="Creative Animation"
+src="https://images.squarespace-cdn.com/content/v1/5ba175f0a9e0286ef432a3bf/1545322538564-4I67FZTH2E3OT56JMWQF/battlebot_idle-3.gif?format=1000w"
+width="180px"
+alt="BattleBot"
 />
 
 <br><br>
 
-<b>BUILD • CREATE • EXPERIMENT</b>
+<b>⚙️ BUILD MODE</b>
 
 <br>
 
-<sub>
-Always exploring new ideas.
-</sub>
+<samp>
+IDEATE → BUILD → TEST → SHIP
+</samp>
 
 <br><br>
 
@@ -163,7 +165,7 @@ Production-ready full-stack e-commerce platform featuring authentication, sessio
 
 RAG-based legal retrieval system designed for semantic search across a large collection of legal documents.
 
-**26K+ legal documents processed**
+📚 **26K+ legal documents processed**
 
 ---
 
@@ -177,7 +179,7 @@ Agricultural AI platform featuring:
 - Soil prediction
 - Crop recommendation
 
-**89% reported model accuracy**
+📈 **89% reported model accuracy**
 
 ---
 
