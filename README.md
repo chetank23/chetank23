@@ -54,26 +54,17 @@
 <p align="center">
   🛒 Built & deployed a production-ready D2C e-commerce platform
   <br />
-  🤖 Built a RAG pipeline processing <b>21K+ legal documents</b>
+  🤖 Built a RAG pipeline processing <b>26K+ legal documents</b>
   <br />
   🏅 <b>2nd Runner-Up</b> — IOTOPIA Hackathon 2025
   <br />
   🏆 <b>Top 10 Teams</b> — SJBIT Axiom Hackathon
   <br />
-  🎨 <b>Design Team Lead</b> — Google Developer Student Clubs, REVA University
+  🎨 <b>Design Team Lead</b> — Google Developer Student Clubs (GDSC), REVA University
+   <br/>
+   🎨 <b>Design Team Lead</b> — CYBERSECURITY CLUB, REVA University
+   
 </p>
-
----
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <a href="https://github.com/chetank23">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetank23&theme=react-dark" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <a href="https://github.com/chetank23">
