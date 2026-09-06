@@ -1,41 +1,32 @@
-<table>
-  <tr>
-    <td width="75%" valign="top">
 
-      <h3>Hey, I'm Chetan 👋</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br />
+  <br />
 
-      <samp>
-        AI & Data Science Student • Software Engineer
-        <br />
-        Building intelligent systems, scalable applications & turning ideas into products 🚀
-        <br />
-        <br />
+  <samp>
+    <b>Hey, I'm Chetan 👋</b>
+    <img
+      align="right"
+      src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+      width="150px"
+    />
+    <br />
+    <br />
 
-        🤖 Generative AI • Agentic AI • Machine Learning
-        <br />
-        📊 Data Engineering • RAG • NLP • Computer Vision
-        <br />
-        🌐 Full-Stack Development • APIs • Cloud & DevOps
-      </samp>
+    AI & Data Science Student • Software Engineer
+    <br />
+    Building intelligent systems, scalable applications & turning ideas into products 🚀
+    <br />
+    <br />
 
-    </td>
+    🤖 Generative AI • Agentic AI • Machine Learning
+    <br />
+    📊 Data Engineering • RAG • NLP • Computer Vision
+    <br />
+    🌐 Full-Stack Development • APIs • Cloud & DevOps
 
-    <td width="25%" align="right" valign="middle">
-
-      <img
-        src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
-        width="150px"
-      />
-
-    </td>
-  </tr>
-</table>
-
-<p align="left">
-  <img
-    src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
-    width="27px"
-  />
+  </samp>
 </p>
 
 ---
@@ -43,7 +34,9 @@
 <h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,react,nodejs,express,fastapi,flask,mysql,mongodb,postgres,docker,git,github,aws,tensorflow&perline=10" />
+  <img
+    src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,react,nodejs,express,fastapi,flask,mysql,mongodb,postgres,docker,git,github,aws,tensorflow&perline=10"
+  />
 </p>
 
 ---
@@ -90,6 +83,8 @@
 </p>
 
 <p align="center">
+  <br />
+  <br />
   <img
     src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif"
     width="20%"
@@ -99,3 +94,4 @@
 <p align="center">
   ⭐️ From <a href="https://github.com/chetank23">chetank23</a>
 </p>
+```
