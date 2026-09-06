@@ -65,22 +65,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <a href="https://github.com/chetank23">
-    <img src="https://github-readme-stats.vercel.app/api?username=chetank23&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chetank23">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetank23&theme=dark&background=151515&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" />
-  </a>
-</p>
-
----
-
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
@@ -98,7 +82,6 @@
 </p>
 
 <p align="center">
-  Made with ❤️ &nbsp;using GitHub Markdown
   <br />
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
