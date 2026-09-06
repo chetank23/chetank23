@@ -1,187 +1,190 @@
-<div align="left">
+<!-- ========================================================= -->
+<!--                         HERO                              -->
+<!-- ========================================================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=HEY%2C+I'M+CHETAN+%F0%9F%91%8B;AI+%26+DATA+SCIENCE+%7C+SOFTWARE+ENGINEER;BUILDING+AI+SYSTEMS+THAT+ACTUALLY+WORK" />
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-</div>
+# 👋 Hey, I'm Chetan
 
-<br>
-
-<div align="center">
-
-<img
-  src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
-  width="32"
->
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>⚡ C H E T A N</h2>
+### AI & Data Science Student · Software Engineer
 
 <samp>
-AI & Data Science Student · Software Engineer
-<br><br>
-I build intelligent systems, full-stack applications,
-<br>
-and data-driven products from idea to deployment.
+
+Building intelligent systems, scalable applications  
+and turning ideas into real-world products. 🚀
+
+🤖 Generative AI · Agentic AI · Machine Learning  
+📊 Data Engineering · RAG · NLP · Computer Vision  
+🌐 Full-Stack Development · APIs · Cloud & DevOps
+
 </samp>
 
-<br><br>
+<br>
+
+<a href="https://github.com/chetank23">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/chetank23/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</td>
+
+<td width="30%" align="center" valign="middle">
 
 <img
-  align="right"
-  width="190"
-  src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+width="220px"
 />
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧑‍💻 About Me
+
+I'm a **B.Tech Artificial Intelligence & Data Science student at REVA University, Bangalore**, interested in building systems where **AI meets software engineering**.
+
+I enjoy working across the complete development lifecycle:
+
+`Idea → Design → Build → Integrate → Deploy → Improve`
+
+My interests include **Generative AI, Agentic AI, RAG, NLP, Computer Vision, Data Engineering and Full-Stack Development**.
+
+I particularly enjoy taking complex ideas and turning them into **simple, useful and deployable products**.
+
+---
+
+# ⚡ What I Work With
+
+### 🤖 Artificial Intelligence
+
+`Generative AI` · `Agentic AI` · `Machine Learning` · `RAG` · `NLP` · `Computer Vision`
+
+### 📊 Data Engineering
+
+`Python` · `SQL` · `Pandas` · `NumPy` · `ETL` · `PySpark` · `Data Modelling`
+
+### 🌐 Software Engineering
+
+`React.js` · `Node.js` · `Express.js` · `FastAPI` · `Flask` · `REST APIs`
+
+### ☁️ Tools & Infrastructure
+
+`MySQL` · `PostgreSQL` · `MongoDB` · `FAISS` · `Docker` · `Git` · `GitHub` · `AWS` · `GCP` · `Vercel`
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="left">
 
-<b>FOCUS</b>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp" />
 
 <br><br>
 
-🤖 Generative AI & Agentic AI  
-📚 RAG & NLP  
-👁️ Computer Vision  
-📊 Data Engineering & ETL  
-🌐 Full-Stack Development  
-☁️ APIs, Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,html,css,tailwind,vite" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,aws,gcp,vercel" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 </p>
 
-</div>
+---
 
-<br><br><br>
+# 🚀 Featured Projects
 
-<div align="center">
+### 🛒 D2C E-Commerce Platform
 
-<a href="https://github.com/chetank23">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/chetank23/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="https://tridalanutrafood.com">
-<img src="https://img.shields.io/badge/LIVE_PROJECT-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+**React.js · Node.js · Express.js · MySQL**
 
-</div>
+Production-ready full-stack e-commerce platform featuring authentication, session management, REST APIs, normalized database architecture and CI/CD deployment.
 
-<br><br>
+🌐 **Live:** [tridalanutrafood.com](https://tridalanutrafood.com)
 
 ---
 
-<h2 align="center">ABOUT ME</h2>
+### ⚖️ AI Legal Case Retrieval System
 
-<p align="center">
-<samp>
-B.Tech Artificial Intelligence & Data Science · REVA University · Bangalore
-<br><br>
-I'm interested in the intersection of <b>AI and software engineering</b>.
-I enjoy designing systems, building APIs, working with data,
-experimenting with modern AI architectures, and turning ideas
-into products that people can actually use.
-<br><br>
-Currently exploring <b>Generative AI, Agentic AI, RAG,
-Data Engineering and scalable application development.</b>
-</samp>
-</p>
+**Python · FAISS · NLP · FastAPI**
 
-<br>
+RAG-based legal retrieval system designed for semantic search across a large collection of legal documents.
+
+**26K+ legal documents processed**
 
 ---
 
-<h2 align="center">TECH I WORK WITH</h2>
+### 🌾 AI Agriculture Assistant
 
-<div align="center">
+**Python · CNN · TensorFlow · Computer Vision**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,react,nodejs,express,fastapi,flask,mysql,mongodb,postgres,docker,git,github,aws,gcp,tensorflow,pytorch,opencv&perline=8">
+Agricultural AI platform featuring:
 
-</div>
+- Plant disease detection
+- Soil prediction
+- Crop recommendation
 
-<br>
-
----
-
-<h2 align="center">SELECTED WORK</h2>
-
-<p align="center">
-<samp>
-<b>🛒 D2C E-Commerce Platform</b>
-<br>
-React · Node.js · Express · MySQL
-<br>
-Production-ready full-stack commerce application
-<br><br>
-
-<b>⚖️ AI Legal Case Retrieval</b>
-<br>
-Python · FAISS · NLP · FastAPI
-<br>
-RAG pipeline processing 26K+ legal documents
-<br><br>
-
-<b>🌾 AI Agriculture Assistant</b>
-<br>
-Python · CNN · TensorFlow · Computer Vision
-<br>
-Plant disease detection, soil prediction & crop recommendation
-<br><br>
-
-<b>🧾 GST Compliance AI</b>
-<br>
-AI · OCR · Automation · APIs
-<br>
-Smart billing and compliance workflows for MSMEs
-</samp>
-</p>
-
-<br>
+**89% reported model accuracy**
 
 ---
 
-<h2 align="center">ACHIEVEMENTS</h2>
+### 🧾 GST Compliance AI
 
-<p align="center">
-🥈 IOTOPIA Hackathon 2025 — 2nd Runner-Up
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🏆 SJBIT Axiom Hackathon — Top 10
-<br><br>
-🎨 Design Team Lead — GDSC, REVA University
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🛡️ Design Team Lead — Cybersecurity Club, REVA University
-<br><br>
-📜 Published Research Article
-&nbsp;&nbsp;•&nbsp;&nbsp;
-📚 NPTEL–SWAYAM Certified — The Art of C Programming
-</p>
+**AI · OCR · Automation · APIs**
 
-<br>
+AI-assisted billing and compliance platform for MSMEs with:
+
+- Smart billing
+- OCR bill scanning
+- Voice billing
+- WhatsApp workflows
+- AI-assisted compliance
 
 ---
 
-<div align="center">
+# 🏆 Achievements
 
-<img
-  src="https://raw.githubusercontent.com/chetank23/chetank23/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
->
+🥈 **2nd Runner-Up — IOTOPIA Hackathon 2025**
 
-</div>
+🏆 **Top 10 Teams — SJBIT Axiom Hackathon**
 
-<br>
+📜 **Published Research Article**
 
-<div align="center">
+📚 **NPTEL–SWAYAM Certified — The Art of C Programming**
 
-<samp>
-<b>BUILD • LEARN • SHIP • REPEAT</b>
-<br><br>
-Made with ❤️ by Chetan
-</samp>
+---
 
-</div>
+# 🎨 Leadership
+
+🎨 **Design Team Lead — Google Developer Student Clubs (GDSC), REVA University**
+
+🛡️ **Design Team Lead — Cybersecurity Club, REVA University**
+
+Working across **branding, visual communication, event design and digital experiences** within student technology communities.
+
+---
+
+# 🎮 Currently Exploring
+
+```text
+Generative AI
+      ↓
+     RAG
+      ↓
+ Tool Calling
+      ↓
+ Agentic AI
+      ↓
+ Automation
+      ↓
+Production AI Systems
