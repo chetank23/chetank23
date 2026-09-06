@@ -205,7 +205,7 @@ IDEATE → BUILD → TEST → SHIP
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure,gcp,vercel,netlify,postman,figma" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel,netlify,postman,figma" />
 
 </p>
 
