@@ -127,25 +127,92 @@ IDEATE → BUILD → TEST → SHIP
 
 # 🛠️ Tech Stack
 
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp" />
 
-<br><br>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,html,css,tailwind,vite" />
+`Python` · `JavaScript` · `TypeScript` · `SQL` · `C` · `Java` · `C++`
 
-<br><br>
+---
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,aws,gcp,vercel" />
+### 🎨 Frontend
 
-<br><br>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,vite" />
+
+</p>
+
+`React.js` · `HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS` · `Vite`
+
+---
+
+### ⚙️ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+
+</p>
+
+`Node.js` · `Express.js` · `FastAPI` · `Flask` · `REST APIs`
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 </p>
 
+`TensorFlow` · `Computer Vision` · `NLP` · `RAG` · `Semantic Search`  
+`Generative AI` · `OpenAI` · `Gemini` · `Hugging Face` · `Tesseract OCR`
+
 ---
+
+### 📊 Data Engineering & Analytics
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
+
+</p>
+
+`Pandas` · `NumPy` · `ETL Pipelines` · `SQL` · `Data Modelling` · `PySpark`  
+`Power BI` · `Tableau`
+
+---
+
+### 🗄️ Databases & AI Storage
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
+
+</p>
+
+`MySQL` · `PostgreSQL` · `MongoDB` · `SQLite` · `Supabase` · `FAISS`
+
+---
+
+### ☁️ Cloud, DevOps & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure,gcp,vercel,netlify,postman,figma" />
+
+</p>
+
+`Docker` · `Git` · `GitHub` · `CI/CD` · `AWS` · `Microsoft Azure`  
+`GCP` · `Vercel` · `Render` · `Netlify` · `Postman` · `Figma`
 
 # 🚀 Featured Projects
 
