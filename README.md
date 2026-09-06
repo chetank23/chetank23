@@ -84,7 +84,7 @@ I particularly enjoy taking complex ideas and turning them into **simple, useful
 
 ### ☁️ Tools & Infrastructure
 
-`MySQL` · `PostgreSQL` · `MongoDB` · `FAISS` · `Docker` · `Git` · `GitHub` · `AWS` · `GCP` · `Vercel`
+`MySQL` · `PostgreSQL` · `MongoDB` · `FAISS` · `Docker` · `Git` · `GitHub` · `AWS` · `Vercel`
 
 </td>
 
@@ -210,7 +210,7 @@ IDEATE → BUILD → TEST → SHIP
 </p>
 
 `Docker` · `Git` · `GitHub` · `CI/CD` · `AWS` · `Microsoft Azure`  
-`GCP` · `Vercel` · `Render` · `Netlify` · `Postman` · `Figma`
+· `Vercel` · `Render` · `Netlify` · `Postman` · `Figma`
 
 # 🚀 Featured Projects
 
@@ -266,7 +266,7 @@ AI-assisted billing and compliance platform for MSMEs with:
 
 🏆 **Top 10 Teams — SJBIT Axiom Hackathon**
 
-📜 **Published Research Article**
+📜 **Published Research Article** 
 
 📚 **NPTEL–SWAYAM Certified — The Art of C Programming**
 
