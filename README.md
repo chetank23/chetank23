@@ -95,7 +95,7 @@ I particularly enjoy taking complex ideas and turning them into **simple, useful
 <br>
 
 <img
-src="https://media.newyorker.com/photos/67411352a7d224b818eb08a5/master/w_2560%2Cc_limit/r45251web_rd.gif"
+src="https://media.newyorker.com/photos/67411352a7d224b818eb08a5/master/w_2560%2Cc_limit/r45251web_rd.gif](https://images.squarespace-cdn.com/content/v1/5ba175f0a9e0286ef432a3bf/1545322538564-4I67FZTH2E3OT56JMWQF/battlebot_idle-3.gif?format=1000w"
 width="95%"
 alt="Creative Animation"
 />
