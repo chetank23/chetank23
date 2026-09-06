@@ -127,8 +127,6 @@ IDEATE → BUILD → TEST → SHIP
 
 # 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
-
 ### 👨‍💻 Programming
 
 <p align="left">
