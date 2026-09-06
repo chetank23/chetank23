@@ -36,7 +36,7 @@ and turning ideas into real-world products. 🚀
 <td width="30%" align="center" valign="middle">
 
 <img
-src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+src="[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://media.tenor.com/JmtDyPWNiKAAAAAj/9578-walking.gif)"
 width="220px"
 />
 
