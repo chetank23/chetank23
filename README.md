@@ -220,8 +220,6 @@ IDEATE → BUILD → TEST → SHIP
 
 Production-ready full-stack e-commerce platform featuring authentication, session management, REST APIs, normalized database architecture and CI/CD deployment.
 
-🌐 **Live:** [tridalanutrafood.com](https://tridalanutrafood.com)
-
 ---
 
 ### ⚖️ AI Legal Case Retrieval System
