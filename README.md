@@ -6,7 +6,7 @@
 <tr>
 <td width="70%" valign="middle">
 
-# 👋 Hey, I'm Chetan
+# 👋 Hey, I'm Chetan Kumar
 
 ### AI & Data Science Student · Software Engineer
 
